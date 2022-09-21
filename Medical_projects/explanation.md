@@ -3,4 +3,4 @@ With these projects, you will be able to familiarize yourself with several issue
 
 Projects are : 
 
-[![Medicalchatbot](https://github.com/Lala2398/Python_projects/blob/main/Medical_projects/Project_Medical_chatbot.ipynb)
+[Medicalchatbot](https://github.com/Lala2398/Python_projects/blob/main/Medical_projects/Project_Medical_chatbot.ipynb)
